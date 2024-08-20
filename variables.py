@@ -19,4 +19,13 @@ print(first_name.title())
 print(first_name.upper())
 first_name = 'Eric'
 print(first_name.lower())
+first_name = 'ada'
+last_name = 'love lace' 
+full_name = + ' ' + last_name
+print(full_name.title())
+message = full_name.title() + ' ' + "was considered the world's first computer programmer."
+print(message)
+print("Hello everyone!")
+print("")
+
 
