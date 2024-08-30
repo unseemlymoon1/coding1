@@ -26,6 +26,15 @@ print(full_name.title())
 message = full_name.title() + ' ' + "was considered the world's first computer programmer."
 print(message)
 print("Hello everyone!")
-print("")
+print("\tHello everyone!")
+print ("h\Hello \teveryone!")
+print("Hello everyone!")
+print(message)
+print("\nHello everyone!")
+print(message)
+print("\n\n\nHello everyone!")
+name = ' eric '
+
+print(name.lstrip())
 
 
